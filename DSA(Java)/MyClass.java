@@ -15,7 +15,6 @@ public class MyClass {
     for(int i = 0; i<n ; i++){
         arr[i] = sc.nextInt();
     }
-    
     System.out.println("Your Given array is :  ");
     for(int i = 0; i<n ; i++){
         System.out.print(arr[i] + " ");

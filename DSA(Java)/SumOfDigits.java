@@ -9,7 +9,6 @@ public class SumOfDigits {
         System.out.print("Enter Number : ");
         int n = sc.nextInt();
         int sum = 0, count = 0;
-
         while (n > 0) {
             int rem = n % 10;
             // sum = sum + rem;
